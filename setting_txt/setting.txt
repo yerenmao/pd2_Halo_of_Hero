@@ -1,0 +1,13 @@
+playerImage,1
+playerUnlock,true,true,true
+player1,0,0,0,0,0,0
+player2,0,0,0,0,0,0
+player3,0,0,0,0,0,0
+player4,0,0,0,0,0,0
+coinNumber,0
+showTrail,true
+showPlayerHpNumber,true
+showPlayerCollisionBox,false
+showEnemyCollisionBox,false
+soundOn,true
+musicOn,true
